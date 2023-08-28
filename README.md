@@ -28,3 +28,4 @@ Run the project
 ```
 flutter run
 ```
+You can find the main script in /lib .
