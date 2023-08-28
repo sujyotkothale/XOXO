@@ -1,6 +1,6 @@
 # xoxo
 
-A new Flutter project.
+A new Simple Flutter project.
 
 ## Getting Started
 
